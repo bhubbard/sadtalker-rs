@@ -172,3 +172,8 @@ checkpoints
 
 # Mac
 .DS_Store
+
+# Rust Coverage
+coverage_report/
+lcov.info
+
